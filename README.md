@@ -1,6 +1,15 @@
-# 11 Express.js: Note Taker
+# 11 Express.js: Note Take
 
-## Your Task
+## Description 
+I created this so the user could easily write and save notes to keep them better organized. They can now keep track of tasks that need to be completed and delete them when are finished. 
+
+
+## Links
+https://github.com/magtron3030/logo.generator
+
+https://drive.google.com/file/d/1d54hdsHYX2a6zGFgquyYqDXvBzgQRbqO/view
+
+
 
 Your assignment is to modify starter code to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
